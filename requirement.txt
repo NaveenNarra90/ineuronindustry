@@ -1,2 +1,5 @@
 Pandas
 Numpy
+Data Science
+Machine Learning
+Git
